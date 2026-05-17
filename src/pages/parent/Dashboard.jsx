@@ -64,7 +64,7 @@ const ParentDashboard = () => {
 
   return (
     <div className="min-h-screen bg-[#0B0F19] text-slate-100">
-      <div className="mx-auto w-full max-w-[1200px] px-4 py-8 sm:px-6">
+      <div className="mx-auto w-full max-w-[1200px] px-0 py-8 sm:px-6">
 
         {/* ── Hero banner ─────────────────────────────────── */}
         <div className={`${card} mb-8 p-6 shadow-[0_32px_80px_rgba(0,229,255,0.10)]`}>
